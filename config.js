@@ -5,10 +5,10 @@ const username = "";
 const password = "";
 
 //Youre Channel
-const channelname = "the_golden_phantom";
+const channelname = "";
 
 //Youre Midi device
-const devicename = "IAC-Treiber Daslight 4";
+const devicename = "";
 
 
 module.exports = {username,password,channelname,devicename};
